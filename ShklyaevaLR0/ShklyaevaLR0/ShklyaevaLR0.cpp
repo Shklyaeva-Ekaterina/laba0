@@ -10,6 +10,7 @@ int main()
 	std::cout << "Print Letter:\n";
 	std::cin >> inf;
 	std::cout << "Letter:" << inf << std::endl;
+	return 1;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
