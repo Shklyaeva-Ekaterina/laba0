@@ -5,6 +5,11 @@
 
 int main()
 {
+	char inf;
+	std::cout << "Hello World!\n";
+	std::cout << "Print Letter:\n";
+	std::cin >> inf;
+	std::cout << "Letter:" << inf << std::endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
